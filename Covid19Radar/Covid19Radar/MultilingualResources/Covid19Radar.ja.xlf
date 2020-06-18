@@ -70,7 +70,7 @@
         </trans-unit>
         <trans-unit id="ExposuresPageNoExposuresInfo" translate="yes" xml:space="preserve">
           <source>You will be notified if you have been exposed to someone who reported a positive COVID-19 result.</source>
-          <target state="translated">COVID-19陽性を報告した人と接触していた場合は、通知されます。</target>
+          <target state="translated">COVID-19の検査結果が陽性であると報告した人と接触していた場合に通知されます。</target>
           <note from="MultilingualBuild" annotates="source" priority="2">exposures comment</note>
         </trans-unit>
         <trans-unit id="NotifyOtherPageDialogExceptionText" translate="yes" xml:space="preserve">
@@ -79,11 +79,11 @@
         </trans-unit>
         <trans-unit id="ButtonFailed" translate="yes" xml:space="preserve">
           <source>Failed</source>
-          <target state="translated">失敗</target>
+          <target state="translated">失敗しました</target>
         </trans-unit>
         <trans-unit id="NotifyOtherPageDialogSubmittedText" translate="yes" xml:space="preserve">
           <source>Diagnosis Submitted</source>
-          <target state="translated">診断結果の提出</target>
+          <target state="translated">診断結果を提出しました</target>
         </trans-unit>
         <trans-unit id="ButtonComplete" translate="yes" xml:space="preserve">
           <source>Complete</source>
@@ -91,7 +91,7 @@
         </trans-unit>
         <trans-unit id="LoadingTextSubmittingDiagnosis" translate="yes" xml:space="preserve">
           <source>Submitting Diagnosis...</source>
-          <target state="translated">診断を提出します。</target>
+          <target state="translated">診断を提出しています...</target>
         </trans-unit>
         <trans-unit id="SettingsPageTitle" translate="yes" xml:space="preserve">
           <source>App Settings</source>
@@ -100,7 +100,7 @@
         </trans-unit>
         <trans-unit id="ButtonCancel" translate="yes" xml:space="preserve">
           <source>Cancel</source>
-          <target state="translated">Cancel</target>
+          <target state="translated">キャンセル</target>
         </trans-unit>
         <trans-unit id="LoadingTextDeleting" translate="yes" xml:space="preserve">
           <source>Deleting</source>
@@ -444,8 +444,8 @@
         </trans-unit>
         <trans-unit id="HomePageDescription5" translate="yes" xml:space="preserve">
           <source>Share this app</source>
-          <target state="translated">アプリを周りの人に知らせる</target>
-          <note from="MultilingualBuild" annotates="source" priority="2">アプリを周りの人に知らせる</note>
+          <target state="translated">アプリを周りの人に広める</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">アプリを周りの人に広める</note>
         </trans-unit>
         <trans-unit id="HomePageTitle1" translate="yes" xml:space="preserve">
           <source>Home</source>
